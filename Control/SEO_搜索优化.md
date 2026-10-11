@@ -1,17 +1,17 @@
 ---
-site_url: https://freecat-blog.pages.dev
+site_url: https://blog.dxj.cc.cd
 _01: 必填：填写你自己的正式域名，例如 https://example.com；不要填文章地址、子路径或预览域名。
 site_description: Always maintain a strong curiosity and be willing to explore a world of freedom.
 _02: 网站 SEO 摘要，用于首页、归档页、关于页、社交分享和 AI 摘要文件。
 site_language: zh-CN
 _03: 网站语言代码，例如 zh-CN、en、ja、ko。
-site_author: FreeCat
+site_author: TM
 _04: 默认作者名称，用于文章页和结构化数据。
-site_author_url: https://freecat-blog.pages.dev
+site_author_url: blog.dxj.cc.cd
 _05: 作者主页链接，可留空；填写时建议使用完整网址。
 site_author_sameas:
 _06: 作者社交主页列表（YAML 数组），用于 Schema.org Person.sameAs，帮助 Google 识别作者身份。示例见下方注释。
-site_default_image: /image/freecat.png
+site_default_image: 
 _07: 默认分享图片；页面或文章没有封面图时使用。若 site_网站属性.md 的 hero_avatar 已填写，构建时会自动优先使用头像。
 google_html_marker: <meta name="google-site-verification" content="SYFsSowdYtQ4XyZC1rsuoK8zHEfDe2CDd4MWoRZXnMo" />
 _08: Google Search Console 的 HTML 标记；直接粘贴 Google 提供的整段 <meta name="google-site-verification" ... />，可留空。
