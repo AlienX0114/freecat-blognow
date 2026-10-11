@@ -11,7 +11,7 @@ hero_title: Hi, I'm TM.此博客主要是搬运与备忘
 _05: 🔹 首主标题 (Slogan)
 hero_subtitle: 收集搬运各种教程,以及当做知识库与备忘录
 _06: 🔹 首页详情介绍
-hero_avatar:
+hero_avatar: https://i.urusai.cc/ijtyW.png
 _07: 🔹 个人头像
 posts_per_page: 10
 _08: 🔹 首页文章显示数量 (数值为空使用默认值 8，0 = 显示所有)
