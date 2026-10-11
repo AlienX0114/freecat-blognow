@@ -19,7 +19,7 @@ show: true
 _08: 🔹 显示文章：是否在全站展示此文章
 copy_content: false
 _09: 🔹 允许复制正文：是否在文章页显示复制正文按钮
-show_latest_update: false
+show_latest_update: true
 _10: 🔹 显示最新更新：是否在文章页左侧显示正文最后更新内容
 ---
 
