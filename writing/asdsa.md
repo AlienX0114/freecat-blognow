@@ -3,7 +3,9 @@ title: 本地写作、GitHub 备份、免费部署的个人博客模板
 _01: 🔹 文章标题：不填写则自动使用文件名称
 date: 2026-10-11
 _02: 🔹 发布日期：发布或显示的时间
-tag: blog,cloudflare
+tag: 
+      - blog
+      - cloudflare
 _03: 🔹 标签分类：用于文章归类和搜索
 cover: https://i.urusai.cc/45Lyp.jpg
 _04: 🔹 文章封面图片
