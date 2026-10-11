@@ -1,3 +1,32 @@
+---
+title: Windows 使用 acme.sh 申请 Cloudflare 泛域名证书并自动续期、部署到 Nginx
+_01: 🔹 文章标题
+date: 2026-10-11
+_02: 🔹 发布日期：发布或显示的时间
+tag:
+  - free
+  - cloudflaer
+  - acme.sh
+  - DNS
+  - Nginx
+  - SSL
+_03: 🔹 标签分类：用于文章归类和搜索
+cover: https://i.urusai.cc/ra6t9.jpg
+_04: 🔹 文章封面图片
+show_image_captions: true
+_05: 🔹 显示图注：是否在文章中显示图片下方的说明文字
+description: 
+_06: 🔹 文章摘要：不填写则自动截取文章内容
+pinned: false
+_07: 🔹 置顶文章：是否将此文章固定在首页顶部
+show: true
+_08: 🔹 显示文章：是否在全站展示此文章
+copy_content: false
+_09: 🔹 允许复制正文：是否在文章页显示复制正文按钮
+show_latest_update: true
+_10: 🔹 显示最新更新：是否在文章页左侧显示正文最后更新内容
+---
+
 # Windows 使用 acme.sh 申请 Cloudflare 泛域名证书并自动续期、部署到 Nginx
 
 ## 1. 适用场景与工作原理
