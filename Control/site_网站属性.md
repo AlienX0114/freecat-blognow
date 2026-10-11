@@ -1,7 +1,7 @@
 ---
 site_title: TM Blog - 欢迎来到我的博客
 _01: 🔹 网页标题 | 浏览器标签页上显示的名称
-site_favicon:
+site_favicon: https://i.urusai.cc/ijtyW.png
 _02: 🔹 网页图标 | 浏览器标签页上显示的图标
 site_name: TM
 _03: 🔹 站位名称
