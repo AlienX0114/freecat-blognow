@@ -4,13 +4,13 @@
     }
 
 
-    .freecat-home-stage {
+    。freecat-home-stage {
         background: var(--freecat-canvas);
         /* 顶栏与搜索浮层需和站内导航的 iframe 共用层叠上下文，否则会被正文遮住。 */
     }
 
     /* 两侧轨道等宽，使文章独立居中；简介只使用左侧轨道，不挤偏正文。 */
-    .freecat-home-layout {
+    。freecat-home-layout {
         display: grid;
         grid-template-columns: minmax(0, 1fr) minmax(0, var(--freecat-home-column-width)) minmax(0, 1fr);
         align-items: start;
@@ -22,7 +22,7 @@
         color: var(--freecat-home-text);
     }
 
-    .freecat-home-sidebar {
+    。freecat-home-sidebar {
         /* 固定在正文左侧；内容整体按可用高度缩放，不分页、不裁切、不设内部滚动。 */
         position: fixed;
         top: var(--freecat-home-sidebar-top);
@@ -55,6 +55,12 @@
         width: 100%;
     }
 
+    .freecat-home-sidebar-topc {
+        min-width: 0;
+        width: 100%;
+        text-align: center;
+    }
+
     .freecat-home-identity {
         display: flex;
         flex-direction: column;
@@ -62,7 +68,7 @@
         gap: 1rem;
     }
 
-    .freecat-home-avatar {
+    。freecat-home-avatar {
         width: 3.5rem;
         height: 3.5rem;
         flex: 0 0 auto;
@@ -85,7 +91,7 @@
         overflow-wrap: anywhere;
     }
 
-    .freecat-home-about {
+    。freecat-home-about {
         display: inline-flex;
         align-items: center;
         min-height: 40px;
