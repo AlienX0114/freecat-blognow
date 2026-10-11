@@ -19,7 +19,7 @@ description:
 _07: 🔹 文章摘要：不填写则自动截取文章内容
 pinned: true
 _08: 🔹 置顶文章：是否将此文章固定在首页顶部
-show: true
+show: false
 _09: 🔹 显示文章：是否在全站展示此文章
 show_latest_update: true
 _10: 🔹 显示最新更新：是否在文章页左侧显示正文最后更新内容
