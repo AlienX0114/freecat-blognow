@@ -9,7 +9,7 @@ site_logo_icon:
 _04: 🔹 站内图标：可使用 SVG 链接或留空使用默认图标
 hero_title: Hi, I'm TM.此博客主要是搬运与备忘
 _05: 🔹 首主标题 (Slogan)
-hero_subtitle: 收集搬运各种教程,以及当做知识库与备忘录.
+hero_subtitle: 收集搬运各种教程,以及当做知识库与备忘录
 _06: 🔹 首页详情介绍
 hero_avatar:
 _07: 🔹 个人头像
