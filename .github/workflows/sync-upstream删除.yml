@@ -4,7 +4,7 @@ name: Sync upstream template files
 # 同步范围:all/ 文件夹 + README.md + README.en.md
 # 北京时间(UTC+8) 周二 02:17 = UTC 周一 18:17
 # GitHub Actions 的 schedule 触发可能有几分钟到十几分钟的延迟，属于正常现象
-on:
+于:
   schedule:
     - cron: '17 18 * * 1'
   workflow_dispatch:
