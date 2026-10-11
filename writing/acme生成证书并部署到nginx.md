@@ -661,20 +661,3 @@ acme.sh --list
 9. 如果 Nginx 位于 Cloudflare 代理后面，请确保 Cloudflare 到源站使用有效证书，或根据架构使用 Cloudflare 代理模式。
 
 ---
-
-## 16. 推荐生产部署检查表
-
-执行以下检查：
-
-- [ ] Git for Windows 已安装并支持 Bash。
-- [ ] Cloudflare API Token 权限最小化。
-- [ ] 已使用测试环境完成签发验证。
-- [ ] 正式证书同时包含主域名和泛域名。
-- [ ] Nginx 使用 `--key-file`、`--fullchain-file` 的输出文件。
-- [ ] `nginx -t` 配置检查通过。
-- [ ] `--reloadcmd` 能够在 Bash 中手动执行。
-- [ ] Windows 计划任务状态为“就绪”。
-- [ ] 日志写入 `renew.log`。
-- [ ] 已测试手动续期。
-- [ ] 已备份当前可用的 Nginx 证书。
-- [ ] 已确认证书 SAN 包含 `example.com` 与 `*.example.com`。
