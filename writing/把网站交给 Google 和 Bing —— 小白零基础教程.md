@@ -14,7 +14,7 @@ description:
 _06: 🔹 文章摘要：不填写则自动截取文章内容
 pinned: false
 _07: 🔹 置顶文章：是否将此文章固定在首页顶部
-show: true
+show: false
 _08: 🔹 显示文章：是否在全站展示此文章
 copy_content: false
 _09: 🔹 允许复制正文：是否在文章页显示复制正文按钮
