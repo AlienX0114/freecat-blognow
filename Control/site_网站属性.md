@@ -5,7 +5,7 @@ site_favicon: https://i.urusai.cc/ijtyW.png
 _02: 🔹 网页图标 | 浏览器标签页上显示的图标
 site_name: TM
 _03: 🔹 站位名称
-site_logo_icon:
+site_logo_icon: https://i.urusai.cc/ijtyW.png
 _04: 🔹 站内图标：可使用 SVG 链接或留空使用默认图标
 hero_title: Hi, I'm TM.此博客主要是搬运与备忘
 _05: 🔹 首主标题 (Slogan)
