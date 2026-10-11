@@ -13,7 +13,7 @@ hero_subtitle: 收集搬运各种教程,以及当做知识库与备忘录
 _06: 🔹 首页详情介绍
 hero_avatar: https://i.urusai.cc/ijtyW.png
 _07: 🔹 个人头像
-posts_per_page: 10
+posts_per_page:0
 _08: 🔹 首页文章显示数量 (数值为空使用默认值 8，0 = 显示所有)
 footer_copyright: © TM - admin@dxj.cc.cd | Curiosity is the best motivation.
 _09: 🔹 网站底部版权信息
